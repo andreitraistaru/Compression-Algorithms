@@ -1,0 +1,810 @@
+                    Test0
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test0.in and test0.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test0.in and test0.out are identical
+
+
+                    Test1
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.015625 seconds
+
+Files test1.in and test1.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test1.in and test1.out are identical
+
+
+                    Test2
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test2.in and test2.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test2.in and test2.out are identical
+
+
+                    Test3
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test3.in and test3.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test3.in and test3.out are identical
+
+
+                    Test4
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.015625 seconds
+
+     Decompression
+
+Execution time: 0.031250 seconds
+
+Files test4.in and test4.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.046875 seconds
+
+     Decompression
+
+Execution time: 0.062500 seconds
+
+Files test4.in and test4.out are identical
+
+
+                    Test5
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.125000 seconds
+
+     Decompression
+
+Execution time: 0.406250 seconds
+
+Files test5.in and test5.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.453125 seconds
+
+     Decompression
+
+Execution time: 0.640625 seconds
+
+Files test5.in and test5.out are identical
+
+
+                    Test6
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.281250 seconds
+
+     Decompression
+
+Execution time: 0.750000 seconds
+
+Files test6.in and test6.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.812500 seconds
+
+     Decompression
+
+Execution time: 1.125000 seconds
+
+Files test6.in and test6.out are identical
+
+
+                    Test7
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.812500 seconds
+
+     Decompression
+
+Execution time: 2.312500 seconds
+
+Files test7.in and test7.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 2.375000 seconds
+
+     Decompression
+
+Execution time: 3.437500 seconds
+
+Files test7.in and test7.out are identical
+
+
+                    Test8
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 1.093750 seconds
+
+     Decompression
+
+Execution time: 3.078125 seconds
+
+Files test8.in and test8.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 3.218750 seconds
+
+     Decompression
+
+Execution time: 4.546875 seconds
+
+Files test8.in and test8.out are identical
+
+
+                    Test9
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 1.656250 seconds
+
+     Decompression
+
+Execution time: 4.562500 seconds
+
+Files test9.in and test9.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 4.890625 seconds
+
+     Decompression
+
+Execution time: 6.703125 seconds
+
+Files test9.in and test9.out are identical
+
+
+                    Test10
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test10.in and test10.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test10.in and test10.out are identical
+
+
+                    Test11
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test11.in and test11.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test11.in and test11.out are identical
+
+
+                    Test12
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.093750 seconds
+
+     Decompression
+
+Execution time: 0.171875 seconds
+
+Files test12.in and test12.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.234375 seconds
+
+     Decompression
+
+Execution time: 0.250000 seconds
+
+Files test12.in and test12.out are identical
+
+
+                    Test13
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.156250 seconds
+
+     Decompression
+
+Execution time: 0.359375 seconds
+
+Files test13.in and test13.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.406250 seconds
+
+     Decompression
+
+Execution time: 0.515625 seconds
+
+Files test13.in and test13.out are identical
+
+
+                    Test14
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.234375 seconds
+
+     Decompression
+
+Execution time: 0.625000 seconds
+
+Files test14.in and test14.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.750000 seconds
+
+     Decompression
+
+Execution time: 1.062500 seconds
+
+Files test14.in and test14.out are identical
+
+
+                    Test15
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.468750 seconds
+
+     Decompression
+
+Execution time: 1.312500 seconds
+
+Files test15.in and test15.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 1.546875 seconds
+
+     Decompression
+
+Execution time: 2.140625 seconds
+
+Files test15.in and test15.out are identical
+
+
+                    Test16
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.703125 seconds
+
+     Decompression
+
+Execution time: 1.984375 seconds
+
+Files test16.in and test16.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.703125 seconds
+
+     Decompression
+
+Execution time: 3.203125 seconds
+
+Files test16.in and test16.out are identical
+
+
+                    Test17
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.859375 seconds
+
+     Decompression
+
+Execution time: 2.203125 seconds
+
+Files test17.in and test17.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 2.687500 seconds
+
+     Decompression
+
+Execution time: 3.828125 seconds
+
+Files test17.in and test17.out are identical
+
+
+                    Test18
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.968750 seconds
+
+     Decompression
+
+Execution time: 2.578125 seconds
+
+Files test18.in and test18.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 3.187500 seconds
+
+     Decompression
+
+Execution time: 4.171875 seconds
+
+Files test18.in and test18.out are identical
+
+
+                    Test19
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 1.265625 seconds
+
+     Decompression
+
+Execution time: 3.609375 seconds
+
+Files test19.in and test19.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 4.390625 seconds
+
+     Decompression
+
+Execution time: 6.093750 seconds
+
+Files test19.in and test19.out are identical
+
+
+                    Test20
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test20.in and test20.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test20.in and test20.out are identical
+
+
+                    Test21
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test21.in and test21.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.000000 seconds
+
+     Decompression
+
+Execution time: 0.000000 seconds
+
+Files test21.in and test21.out are identical
+
+
+                    Test22
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.062500 seconds
+
+     Decompression
+
+Execution time: 0.140625 seconds
+
+Files test22.in and test22.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.203125 seconds
+
+     Decompression
+
+Execution time: 0.265625 seconds
+
+Files test22.in and test22.out are identical
+
+
+                    Test23
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.093750 seconds
+
+     Decompression
+
+Execution time: 0.109375 seconds
+
+Files test23.in and test23.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.140625 seconds
+
+     Decompression
+
+Execution time: 0.265625 seconds
+
+Files test23.in and test23.out are identical
+
+
+                    Test24
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.187500 seconds
+
+     Decompression
+
+Execution time: 0.390625 seconds
+
+Files test24.in and test24.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.687500 seconds
+
+     Decompression
+
+Execution time: 0.968750 seconds
+
+Files test24.in and test24.out are identical
+
+
+                    Test25
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.500000 seconds
+
+     Decompression
+
+Execution time: 1.109375 seconds
+
+Files test25.in and test25.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 1.515625 seconds
+
+     Decompression
+
+Execution time: 2.109375 seconds
+
+Files test25.in and test25.out are identical
+
+
+                    Test26
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.468750 seconds
+
+     Decompression
+
+Execution time: 0.562500 seconds
+
+Files test26.in and test26.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 0.734375 seconds
+
+     Decompression
+
+Execution time: 1.531250 seconds
+
+Files test26.in and test26.out are identical
+
+
+                    Test27
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.687500 seconds
+
+     Decompression
+
+Execution time: 1.421875 seconds
+
+Files test27.in and test27.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 2.578125 seconds
+
+     Decompression
+
+Execution time: 3.343750 seconds
+
+Files test27.in and test27.out are identical
+
+
+                    Test28
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 0.890625 seconds
+
+     Decompression
+
+Execution time: 2.187500 seconds
+
+Files test28.in and test28.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 2.921875 seconds
+
+     Decompression
+
+Execution time: 3.984375 seconds
+
+Files test28.in and test28.out are identical
+
+
+                    Test29
+---------------------------------------------
+          Huffman Compression
+
+     Compression
+
+Execution time: 1.265625 seconds
+
+     Decompression
+
+Execution time: 3.109375 seconds
+
+Files test29.in and test29.out are identical
+
+          LZW Compression
+
+     Compression
+
+Execution time: 4.078125 seconds
+
+     Decompression
+
+Execution time: 5.625000 seconds
+
+Files test29.in and test29.out are identical
+
+
